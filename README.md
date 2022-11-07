@@ -1,4 +1,4 @@
 -👋 Hi, I'm Ugochi Obiuku 
 - 🔭 I’m a Data analyst
-- 🌱 I’m currently storing my projects on Python and SQL
+- 🌱 I’m currently storing my projects on Python and SQL here
 - 📫 How to reach me: via mail @ uobiuku@gmail.com, +2347065031868
