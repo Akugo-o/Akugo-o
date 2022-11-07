@@ -1,5 +1,4 @@
 -👋 Hi, I'm Ugochi Obiuku 
-- 🔭 I’m currently working on Homoye Python for machine learning
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Projects relating to data
-- 📫 How to reach me: via mail @ uobiuku@gmail.com
+- 🔭 I’m a Data analyst
+- 🌱 I’m currently storing my projects on Python and SQL
+- 📫 How to reach me: via mail @ uobiuku@gmail.com, +2347065031868
